@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "nan": "1.2.0",
-    "underscore": "~1.7.0",
+    "underscore": "~1.13.7",
     "underscore.string": "2.4.0"
   },
   "scripts": {
